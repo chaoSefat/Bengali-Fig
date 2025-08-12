@@ -1,8 +1,4 @@
 # 🧠 BengaliFig Human Annotation Guidelines
-<<<<<<< HEAD
-
-=======
->>>>>>> bac4baa65e5c851916bafde0001d3b0eab4245da
 ## 🔍 Objective
 
 Evaluate the correctness and consistency of LLM-assigned metadata for Bengali riddles. Each riddle is annotated with 5 fields. Your task is to verify or correct them based on the definitions below.

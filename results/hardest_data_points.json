@@ -1,0 +1,1141 @@
+[
+    {
+        "id": 12,
+        "question": "কাঁচাতে যেই ফল সর্বজনে খায়, পাঁকলে সেই ফল গড়াগড়ি যায়?",
+        "answer": "ডুমুর",
+        "reasoning_type": "commonsense",
+        "answer_type": "plant",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "আম",
+            "কাঁঠাল",
+            "জাম",
+            "লিচু",
+            "পেঁপে",
+            "তরমুজ"
+        ],
+        "chosen_distractors": [
+            "আম",
+            "কাঁঠাল",
+            "তরমুজ"
+        ],
+        "options": [
+            "তরমুজ",
+            "আম",
+            "কাঁঠাল",
+            "ডুমুর"
+        ],
+        "correct_option_index": 3,
+        "correct_option": "D",
+        "distractors": [
+            "আম",
+            "কাঁঠাল",
+            "তরমুজ"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 28,
+        "question": "প্রানীর জন্তু নয় পানিতে বাস করে, হাত নেই পা নেই তবু সাঁতার কাটে।",
+        "answer": "নৌকা",
+        "reasoning_type": "metaphorical",
+        "answer_type": "object",
+        "difficulty": "easy",
+        "trap_type": "surface_literal",
+        "cultural_depth": "universal",
+        "source": "web",
+        "suggested_distractors": [
+            "মাছ",
+            "সাপ",
+            "কুমির",
+            "কচ্ছপ",
+            "ব্যাঙ",
+            "শামুক"
+        ],
+        "chosen_distractors": [
+            "মাছ",
+            "সাপ",
+            "কচ্ছপ"
+        ],
+        "options": [
+            "মাছ",
+            "সাপ",
+            "কচ্ছপ",
+            "নৌকা"
+        ],
+        "correct_option_index": 3,
+        "correct_option": "D",
+        "distractors": [
+            "মাছ",
+            "সাপ",
+            "কচ্ছপ"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 55,
+        "question": "রান্না করতে লাগে এটা পেট কাটলে অন্য কাটলে মাথা নেই দোষ, তিন অক্ষরে গণ্য।",
+        "answer": "আগুন",
+        "reasoning_type": "compound",
+        "answer_type": "natural_phenomenon",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "তরকারি",
+            "পেঁয়াজ",
+            "রসুন",
+            "আদা",
+            "মাছ",
+            "লঙ্কা"
+        ],
+        "chosen_distractors": [
+            "পেঁয়াজ",
+            "মাছ",
+            "লঙ্কা"
+        ],
+        "options": [
+            "মাছ",
+            "আগুন",
+            "লঙ্কা",
+            "পেঁয়াজ"
+        ],
+        "correct_option_index": 1,
+        "correct_option": "B",
+        "distractors": [
+            "পেঁয়াজ",
+            "মাছ",
+            "লঙ্কা"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 62,
+        "question": "বর্ষাকালে তিন অক্ষরে আয়েশ করে খায়, কাটলে মাথা সুন্দরীদের হাতে উঠে যায়?",
+        "answer": "খিচুড়ি",
+        "reasoning_type": "compound",
+        "answer_type": "food_drink",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "ভাত",
+            "মাছ",
+            "ইলিশ",
+            "পান্তা",
+            "দই",
+            "লুচি"
+        ],
+        "chosen_distractors": [
+            "ভাত",
+            "মাছ",
+            "পান্তা"
+        ],
+        "options": [
+            "খিচুড়ি",
+            "পান্তা",
+            "মাছ",
+            "ভাত"
+        ],
+        "correct_option_index": 0,
+        "correct_option": "A",
+        "distractors": [
+            "ভাত",
+            "মাছ",
+            "পান্তা"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 84,
+        "question": "দৌড়িয়ে গিয়ে জরিয়ে ধরে করছে টানাটানি মধ্যখানে খিল মেরেছে ভিতরে পড়েছে পানি।",
+        "answer": "খেজুর গাছ থেকে রস পড়া",
+        "reasoning_type": "metaphorical",
+        "answer_type": "natural_phenomenon",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "দুই বন্ধুর মারামারি",
+            "কূপ থেকে জল তোলা",
+            "কাপড় চোপড় ফাটা",
+            "নদীতে জাল ফেলা",
+            "কুয়ো থেকে জল তোলা",
+            "দুধ দোয়ানোর সময়"
+        ],
+        "chosen_distractors": [
+            "দুই বন্ধুর মারামারি",
+            "কূপ থেকে জল তোলা",
+            "কুয়ো থেকে জল তোলা"
+        ],
+        "options": [
+            "দুই বন্ধুর মারামারি",
+            "কুয়ো থেকে জল তোলা",
+            "কূপ থেকে জল তোলা",
+            "খেজুর গাছ থেকে রস পড়া"
+        ],
+        "correct_option_index": 3,
+        "correct_option": "D",
+        "distractors": [
+            "দুই বন্ধুর মারামারি",
+            "কূপ থেকে জল তোলা",
+            "কুয়ো থেকে জল তোলা"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 96,
+        "question": "রাতের নিঝুম পথে কে চলেছে ছুটে, রয়েছে কাছে অনেক টাকা পাছে বা কেউ লুটে।",
+        "answer": "রানার",
+        "reasoning_type": "metaphorical",
+        "answer_type": "person",
+        "difficulty": "easy",
+        "trap_type": "surface_literal",
+        "cultural_depth": "universal",
+        "source": "web",
+        "suggested_distractors": [
+            "চোর",
+            "ডাকাত",
+            "পাহারাদার",
+            "মুদ্রাবাহক",
+            "ব্যাংককর্মী",
+            "সোনাদাস"
+        ],
+        "chosen_distractors": [
+            "চোর",
+            "ডাকাত",
+            "মুদ্রাবাহক"
+        ],
+        "options": [
+            "চোর",
+            "রানার",
+            "ডাকাত",
+            "মুদ্রাবাহক"
+        ],
+        "correct_option_index": 1,
+        "correct_option": "B",
+        "distractors": [
+            "চোর",
+            "ডাকাত",
+            "মুদ্রাবাহক"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 100,
+        "question": "রাত্রিকালে আঁধারেতে যার যার ঘরে, তার বাড়িতে সকল লোকে কান্নাকাটি করে।",
+        "answer": "চোর",
+        "reasoning_type": "metaphorical",
+        "answer_type": "person",
+        "difficulty": "easy",
+        "trap_type": "surface_literal",
+        "cultural_depth": "universal",
+        "source": "web",
+        "suggested_distractors": [
+            "ভূত",
+            "শোক",
+            "মৃত্যু",
+            "প্রেতাত্মা",
+            "দুঃখ",
+            "শ্মশান"
+        ],
+        "chosen_distractors": [
+            "ভূত",
+            "মৃত্যু",
+            "দুঃখ"
+        ],
+        "options": [
+            "ভূত",
+            "মৃত্যু",
+            "চোর",
+            "দুঃখ"
+        ],
+        "correct_option_index": 2,
+        "correct_option": "C",
+        "distractors": [
+            "ভূত",
+            "মৃত্যু",
+            "দুঃখ"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 108,
+        "question": "দুই ঠ্যাং ছড়াইয়া, মাঝে দিল ভরিয়া আপন কাজ করিয়া, পড়ে দেয় ছাড়িয়া।",
+        "answer": "যাতি দ্বারা সুপারি কাটা",
+        "reasoning_type": "metaphorical",
+        "answer_type": "object",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "কাঁচি",
+            "মানুষ",
+            "ব্যাঙ",
+            "তরমুজ",
+            "চশমা",
+            "দরজি"
+        ],
+        "chosen_distractors": [
+            "কাঁচি",
+            "মানুষ",
+            "তরমুজ"
+        ],
+        "options": [
+            "মানুষ",
+            "কাঁচি",
+            "তরমুজ",
+            "যাতি দ্বারা সুপারি কাটা"
+        ],
+        "correct_option_index": 3,
+        "correct_option": "D",
+        "distractors": [
+            "কাঁচি",
+            "মানুষ",
+            "তরমুজ"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 165,
+        "question": "আমাকে না পেলে, সবাই করে হায় হায়, ইচ্ছামতো আসি যদি, দেয় আমাকে বিদায়।’",
+        "answer": "পানি",
+        "reasoning_type": "metaphorical",
+        "answer_type": "food_drink",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "টাকা",
+            "সুখ",
+            "স্বাস্থ্য",
+            "ভালোবাসা",
+            "সময়",
+            "বন্ধু"
+        ],
+        "chosen_distractors": [
+            "সুখ",
+            "ভালোবাসা",
+            "সময়"
+        ],
+        "options": [
+            "ভালোবাসা",
+            "সুখ",
+            "পানি",
+            "সময়"
+        ],
+        "correct_option_index": 2,
+        "correct_option": "C",
+        "distractors": [
+            "সুখ",
+            "ভালোবাসা",
+            "সময়"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 193,
+        "question": "বুদ্ধিমান হলে বুদ্ধির দাও পরিচয়, ১+১ কখন ৩ হয়।",
+        "answer": "অঙ্ক ভুল হলে",
+        "reasoning_type": "commonsense",
+        "answer_type": "concept",
+        "difficulty": "easy",
+        "trap_type": "surface_literal",
+        "cultural_depth": "universal",
+        "source": "web",
+        "suggested_distractors": [
+            "গর্ভধারণ করলে",
+            "দম্পতির সন্তান হলে",
+            "দুইজনের মিলনে তৃতীয় জন",
+            "জোড়া লাগালে",
+            "পরিবার শুরু করলে",
+            "গণনার সময় ভুল করলে"
+        ],
+        "chosen_distractors": [
+            "গর্ভধারণ করলে",
+            "দম্পতির সন্তান হলে",
+            "দুইজনের মিলনে তৃতীয় জন"
+        ],
+        "options": [
+            "অঙ্ক ভুল হলে",
+            "দুইজনের মিলনে তৃতীয় জন",
+            "দম্পতির সন্তান হলে",
+            "গর্ভধারণ করলে"
+        ],
+        "correct_option_index": 0,
+        "correct_option": "A",
+        "distractors": [
+            "গর্ভধারণ করলে",
+            "দম্পতির সন্তান হলে",
+            "দুইজনের মিলনে তৃতীয় জন"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 221,
+        "question": "এতটুকু ঘরখানি চুনকাম করা কোনো মিস্ত্রির সাধ্য নাই ভাইঙ্গা আবার করার। জিনিসটি কি?",
+        "answer": "ঝিনুক",
+        "reasoning_type": "metaphorical",
+        "answer_type": "animal",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "ডিম",
+            "পুতুল",
+            "মন্দির",
+            "পাখির বাসা",
+            "মাটির ঘর",
+            "কাগজের ঘর"
+        ],
+        "chosen_distractors": [
+            "ডিম",
+            "পাখির বাসা",
+            "মাটির ঘর"
+        ],
+        "options": [
+            "মাটির ঘর",
+            "পাখির বাসা",
+            "ঝিনুক",
+            "ডিম"
+        ],
+        "correct_option_index": 2,
+        "correct_option": "C",
+        "distractors": [
+            "ডিম",
+            "পাখির বাসা",
+            "মাটির ঘর"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 232,
+        "question": "তিন অক্ষরে নাম তার প্রতি ঘরে পাবে অধ্যক্ষর বাদ দিলে বৎসর বুঝাবে মধ্য অক্ষর গেলে সবার ক্ষতি করে শেষের অক্ষর গেলে সবাই অবস্থান করে।",
+        "answer": "বাসন",
+        "reasoning_type": "wordplay",
+        "answer_type": "object",
+        "difficulty": "medium",
+        "trap_type": "linguistic_trick",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "নদী",
+            "সাগর",
+            "পাহাড়",
+            "দেশ",
+            "মাস",
+            "দিন"
+        ],
+        "chosen_distractors": [
+            "নদী",
+            "মাস",
+            "দিন"
+        ],
+        "options": [
+            "দিন",
+            "নদী",
+            "বাসন",
+            "মাস"
+        ],
+        "correct_option_index": 2,
+        "correct_option": "C",
+        "distractors": [
+            "নদী",
+            "মাস",
+            "দিন"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 272,
+        "question": "কোন হাস কখনোই ডিম পারে না?",
+        "answer": "ইতিহাস",
+        "reasoning_type": "wordplay",
+        "answer_type": "concept",
+        "difficulty": "easy",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "রাজহাঁস",
+            "পাতিহাঁস",
+            "প্লাস্টিকের হাঁস",
+            "মরা হাঁস",
+            "পুরুষ হাঁস",
+            "খেলনা হাঁস"
+        ],
+        "chosen_distractors": [
+            "রাজহাঁস",
+            "মরা হাঁস",
+            "পুরুষ হাঁস"
+        ],
+        "options": [
+            "মরা হাঁস",
+            "ইতিহাস",
+            "পুরুষ হাঁস",
+            "রাজহাঁস"
+        ],
+        "correct_option_index": 1,
+        "correct_option": "B",
+        "distractors": [
+            "রাজহাঁস",
+            "মরা হাঁস",
+            "পুরুষ হাঁস"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 283,
+        "question": "এক ঘরে একটি খাম। বলো তার কী নাম?",
+        "answer": "ছাতা",
+        "reasoning_type": "metaphorical",
+        "answer_type": "object",
+        "difficulty": "easy",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "চিঠি",
+            "ডাক",
+            "খবর",
+            "চিরকুট",
+            "পত্র",
+            "বার্তা"
+        ],
+        "chosen_distractors": [
+            "চিঠি",
+            "চিরকুট",
+            "পত্র"
+        ],
+        "options": [
+            "চিঠি",
+            "ছাতা",
+            "চিরকুট",
+            "পত্র"
+        ],
+        "correct_option_index": 1,
+        "correct_option": "B",
+        "distractors": [
+            "চিঠি",
+            "চিরকুট",
+            "পত্র"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 309,
+        "question": "রাজার বেটা রাম দাস, খায় খোলা তার ফেলায় শাঁস।",
+        "answer": "চালতা",
+        "reasoning_type": "compound",
+        "answer_type": "food_drink",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "আম",
+            "কাঁঠাল",
+            "লিচু",
+            "পেয়ারা",
+            "জাম",
+            "আনারস"
+        ],
+        "chosen_distractors": [
+            "আম",
+            "কাঁঠাল",
+            "লিচু"
+        ],
+        "options": [
+            "কাঁঠাল",
+            "লিচু",
+            "চালতা",
+            "আম"
+        ],
+        "correct_option_index": 2,
+        "correct_option": "C",
+        "distractors": [
+            "আম",
+            "কাঁঠাল",
+            "লিচু"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 323,
+        "question": "হাত পা তার ইটের সমান অতি পুরু ছাল, পেটে দিলে তাকে বাড়ে অনেক মান।",
+        "answer": "গম গাছ",
+        "reasoning_type": "metaphorical",
+        "answer_type": "plant",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "কচ্ছপ",
+            "হাতি",
+            "গণ্ডার",
+            "শুকর",
+            "নদী"
+        ],
+        "chosen_distractors": [
+            "কচ্ছপ",
+            "হাতি",
+            "গণ্ডার"
+        ],
+        "options": [
+            "গম গাছ",
+            "কচ্ছপ",
+            "হাতি",
+            "গণ্ডার"
+        ],
+        "correct_option_index": 0,
+        "correct_option": "A",
+        "distractors": [
+            "কচ্ছপ",
+            "হাতি",
+            "গণ্ডার"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 327,
+        "question": "সারা মাথায় পক্ক কেশ, মাথার ঘিলু খেতে বেশ।",
+        "answer": "তালের আঁটি",
+        "reasoning_type": "metaphorical",
+        "answer_type": "plant",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "নারকেল",
+            "খুলো",
+            "পাকা আম",
+            "বুদ্ধিজীবী",
+            "বুড়ো",
+            "মগজ"
+        ],
+        "chosen_distractors": [
+            "নারকেল",
+            "বুড়ো",
+            "মগজ"
+        ],
+        "options": [
+            "নারকেল",
+            "মগজ",
+            "বুড়ো",
+            "তালের আঁটি"
+        ],
+        "correct_option_index": 3,
+        "correct_option": "D",
+        "distractors": [
+            "নারকেল",
+            "বুড়ো",
+            "মগজ"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 334,
+        "question": "কাঁচায় তুলতুলে পাকায় সিঁদূর, যে না বলতে পারে সে ধেড়ে ইঁদুর।",
+        "answer": "মাটির হাঁড়ি",
+        "reasoning_type": "metaphorical",
+        "answer_type": "object",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "তুলা",
+            "সিঁদুর",
+            "কুমড়ো",
+            "লঙ্কা",
+            "ইঁদুর",
+            "পাকা কলা"
+        ],
+        "chosen_distractors": [
+            "তুলা",
+            "ইঁদুর",
+            "পাকা কলা"
+        ],
+        "options": [
+            "তুলা",
+            "মাটির হাঁড়ি",
+            "ইঁদুর",
+            "পাকা কলা"
+        ],
+        "correct_option_index": 1,
+        "correct_option": "B",
+        "distractors": [
+            "তুলা",
+            "ইঁদুর",
+            "পাকা কলা"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 362,
+        "question": "তিন অক্ষরে নাম ব্যঞ্জনে দেয়, তাহার প্রভাবে আহা, স্বাদ ভালো হয়। মাথা কেটে গেলে সে যে গণ্য হবে কাঠি, পেট কেটে ময়লা সে, নয় পরিপাটি।",
+        "answer": "মশলা",
+        "reasoning_type": "compound",
+        "answer_type": "food_drink",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "নিমক",
+            "চিনি",
+            "গুড়",
+            "লবণ",
+            "তেল",
+            "ঘি"
+        ],
+        "chosen_distractors": [
+            "নিমক",
+            "চিনি",
+            "লবণ"
+        ],
+        "options": [
+            "চিনি",
+            "মশলা",
+            "লবণ",
+            "নিমক"
+        ],
+        "correct_option_index": 1,
+        "correct_option": "B",
+        "distractors": [
+            "নিমক",
+            "চিনি",
+            "লবণ"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 363,
+        "question": "দু’অক্ষরে নাম লজ্জা নিবারণী, প্রথম অক্ষর বাদ দিলে হয় আমার জননী, শেষের অক্ষর বাদ দিলে ভাশুর ঘরণী।",
+        "answer": "জামা",
+        "reasoning_type": "wordplay",
+        "answer_type": "object",
+        "difficulty": "medium",
+        "trap_type": "linguistic_trick",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "লজ্জা",
+            "বস্ত্র",
+            "শাড়ি",
+            "কাপড়",
+            "চাদর",
+            "ওড়না"
+        ],
+        "chosen_distractors": [
+            "লজ্জা",
+            "বস্ত্র",
+            "শাড়ি"
+        ],
+        "options": [
+            "লজ্জা",
+            "বস্ত্র",
+            "শাড়ি",
+            "জামা"
+        ],
+        "correct_option_index": 3,
+        "correct_option": "D",
+        "distractors": [
+            "লজ্জা",
+            "বস্ত্র",
+            "শাড়ি"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 434,
+        "question": "তিন অক্ষরে নাম তার সব লোকে খায় প্রথম অক্ষর বদ দিলে  ঘর ছাওয়া যায়।",
+        "answer": "কুমড়ো",
+        "reasoning_type": "wordplay",
+        "answer_type": "food_drink",
+        "difficulty": "medium",
+        "trap_type": "linguistic_trick",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "পানি",
+            "ভাত",
+            "দুধ",
+            "মাছ",
+            "লেবু",
+            "ডাল"
+        ],
+        "chosen_distractors": [
+            "ভাত",
+            "মাছ",
+            "ডাল"
+        ],
+        "options": [
+            "মাছ",
+            "ভাত",
+            "কুমড়ো",
+            "ডাল"
+        ],
+        "correct_option_index": 2,
+        "correct_option": "C",
+        "distractors": [
+            "ভাত",
+            "মাছ",
+            "ডাল"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 529,
+        "question": "টুক্কা দিলে টাকাটা লাল শাকের ঐ ডাঁটাটা।",
+        "answer": "কেন্নো",
+        "reasoning_type": "wordplay",
+        "answer_type": "food_drink",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "টমেটো",
+            "গাজর",
+            "বিট",
+            "লঙ্কা",
+            "পেঁয়াজ",
+            "রসুন"
+        ],
+        "chosen_distractors": [
+            "টমেটো",
+            "লঙ্কা",
+            "পেঁয়াজ"
+        ],
+        "options": [
+            "কেন্নো",
+            "পেঁয়াজ",
+            "টমেটো",
+            "লঙ্কা"
+        ],
+        "correct_option_index": 0,
+        "correct_option": "A",
+        "distractors": [
+            "টমেটো",
+            "লঙ্কা",
+            "পেঁয়াজ"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 541,
+        "question": "কোনটা সবসময় উপরে উঠতে চায়, কিন্তু নিচে পড়ে?",
+        "answer": "ঘড়ির কাঁটা",
+        "reasoning_type": "metaphorical",
+        "answer_type": "object",
+        "difficulty": "easy",
+        "trap_type": "surface_literal",
+        "cultural_depth": "universal",
+        "source": "web",
+        "suggested_distractors": [
+            "বেলুন",
+            "ধোঁয়া",
+            "পাহাড়",
+            "গরম বাতাস",
+            "রকেট",
+            "জীবনের আশা"
+        ],
+        "chosen_distractors": [
+            "বেলুন",
+            "ধোঁয়া",
+            "রকেট"
+        ],
+        "options": [
+            "বেলুন",
+            "রকেট",
+            "ঘড়ির কাঁটা",
+            "ধোঁয়া"
+        ],
+        "correct_option_index": 2,
+        "correct_option": "C",
+        "distractors": [
+            "বেলুন",
+            "ধোঁয়া",
+            "রকেট"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 646,
+        "question": "জিনিসটা ঠান্ডা কিন্তু ফুঁ দিয়ে খেতে হয় কি?",
+        "answer": "বাদাম",
+        "reasoning_type": "compound",
+        "answer_type": "food_drink",
+        "difficulty": "easy",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "আইসক্রিম",
+            "ঠান্ডা চা",
+            "সফট ড্রিঙ্ক",
+            "ফালুদা",
+            "লাচ্ছি",
+            "ঠান্ডা কফি"
+        ],
+        "chosen_distractors": [
+            "আইসক্রিম",
+            "ঠান্ডা চা",
+            "ঠান্ডা কফি"
+        ],
+        "options": [
+            "বাদাম",
+            "ঠান্ডা চা",
+            "ঠান্ডা কফি",
+            "আইসক্রিম"
+        ],
+        "correct_option_index": 0,
+        "correct_option": "A",
+        "distractors": [
+            "আইসক্রিম",
+            "ঠান্ডা চা",
+            "ঠান্ডা কফি"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 694,
+        "question": "কথা বলি না, তবু সবাই শোনে, পিঠে বসে থাকি, তবু কেউ না চিনে!",
+        "answer": "ব্যাকগ্রাউন্ড মিউজিক",
+        "reasoning_type": "metaphorical",
+        "answer_type": "concept",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "universal",
+        "source": "web",
+        "suggested_distractors": [
+            "কচ্ছপ",
+            "পাহাড়",
+            "সাইকেলের সিট",
+            "ছায়া",
+            "পিঠের কাঁটা",
+            "বই"
+        ],
+        "chosen_distractors": [
+            "কচ্ছপ",
+            "ছায়া",
+            "পিঠের কাঁটা"
+        ],
+        "options": [
+            "পিঠের কাঁটা",
+            "ব্যাকগ্রাউন্ড মিউজিক",
+            "কচ্ছপ",
+            "ছায়া"
+        ],
+        "correct_option_index": 1,
+        "correct_option": "B",
+        "distractors": [
+            "কচ্ছপ",
+            "ছায়া",
+            "পিঠের কাঁটা"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 707,
+        "question": "আমি চলি না, হাঁটি না, তবু তুমি ছাড়া আমার কিছু চলে না!",
+        "answer": "পাসওয়ার্ড",
+        "reasoning_type": "metaphorical",
+        "answer_type": "concept",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "universal",
+        "source": "web",
+        "suggested_distractors": [
+            "ছায়া",
+            "প্রতিবিম্ব",
+            "নিঃশ্বাস",
+            "হৃদয়",
+            "ভূত",
+            "চিন্তা"
+        ],
+        "chosen_distractors": [
+            "ছায়া",
+            "হৃদয়",
+            "চিন্তা"
+        ],
+        "options": [
+            "চিন্তা",
+            "পাসওয়ার্ড",
+            "হৃদয়",
+            "ছায়া"
+        ],
+        "correct_option_index": 1,
+        "correct_option": "B",
+        "distractors": [
+            "ছায়া",
+            "হৃদয়",
+            "চিন্তা"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 714,
+        "question": "ছেলেরা মেয়েদের কি চেটেপুটে খায়!",
+        "answer": "রান্না করা খাবার",
+        "reasoning_type": "metaphorical",
+        "answer_type": "food_drink",
+        "difficulty": "medium",
+        "trap_type": "surface_literal",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "চকলেট",
+            "আইসক্রিম",
+            "ফল",
+            "মিষ্টি",
+            "গাল",
+            "ঠোঁট"
+        ],
+        "chosen_distractors": [
+            "গাল",
+            "ঠোঁট",
+            "চকলেট"
+        ],
+        "options": [
+            "রান্না করা খাবার",
+            "ঠোঁট",
+            "গাল",
+            "চকলেট"
+        ],
+        "correct_option_index": 0,
+        "correct_option": "A",
+        "distractors": [
+            "গাল",
+            "ঠোঁট",
+            "চকলেট"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 722,
+        "question": "আমি সব জানি, সব দেখি, কিন্তু চোখ নেই—আমি কে?",
+        "answer": "মোবাইল ফোন",
+        "reasoning_type": "metaphorical",
+        "answer_type": "object",
+        "difficulty": "easy",
+        "trap_type": "surface_literal",
+        "cultural_depth": "universal",
+        "source": "web",
+        "suggested_distractors": [
+            "ঈশ্বর",
+            "দেবতা",
+            "আয়না",
+            "আকাশ",
+            "সূর্য",
+            "CCTV"
+        ],
+        "chosen_distractors": [
+            "ঈশ্বর",
+            "আয়না",
+            "CCTV"
+        ],
+        "options": [
+            "মোবাইল ফোন",
+            "ঈশ্বর",
+            "আয়না",
+            "CCTV"
+        ],
+        "correct_option_index": 0,
+        "correct_option": "A",
+        "distractors": [
+            "ঈশ্বর",
+            "আয়না",
+            "CCTV"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 725,
+        "question": "কোন বিদেশী ভাষা, নাম চার অক্ষরে। দ্বিতীয় কেটে দেখ জলে বাস করে!",
+        "answer": "ইংলিশ",
+        "reasoning_type": "wordplay",
+        "answer_type": "text_symbol",
+        "difficulty": "medium",
+        "trap_type": "linguistic_trick",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "চীনা",
+            "জাপান",
+            "স্পেন",
+            "ইতালি",
+            "গ্রীস",
+            "জার্মান"
+        ],
+        "chosen_distractors": [
+            "চীনা",
+            "জাপান",
+            "জার্মান"
+        ],
+        "options": [
+            "চীনা",
+            "ইংলিশ",
+            "জার্মান",
+            "জাপান"
+        ],
+        "correct_option_index": 1,
+        "correct_option": "B",
+        "distractors": [
+            "চীনা",
+            "জাপান",
+            "জার্মান"
+        ],
+        "format": "mcq"
+    },
+    {
+        "id": 728,
+        "question": "তিন অক্ষরে নাম যার, যাতে তৈরি তাতেই ভেসে, শেষের অক্ষর বাদ দিলে সোজা বিয়ের পিঁড়িতে বসে, বল কি সেই মাল??",
+        "answer": "বরফ",
+        "reasoning_type": "compound",
+        "answer_type": "natural_phenomenon",
+        "difficulty": "medium",
+        "trap_type": "linguistic_trick",
+        "cultural_depth": "cultural_specific",
+        "source": "web",
+        "suggested_distractors": [
+            "নদী",
+            "সাগর",
+            "পানি",
+            "মাছ",
+            "নাও",
+            "ধান"
+        ],
+        "chosen_distractors": [
+            "নদী",
+            "পানি",
+            "নাও"
+        ],
+        "options": [
+            "নাও",
+            "নদী",
+            "বরফ",
+            "পানি"
+        ],
+        "correct_option_index": 2,
+        "correct_option": "C",
+        "distractors": [
+            "নদী",
+            "পানি",
+            "নাও"
+        ],
+        "format": "mcq"
+    }
+]

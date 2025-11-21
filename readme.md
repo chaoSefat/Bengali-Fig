@@ -195,5 +195,4 @@ Notes:
 - If you get API errors, double-check the corresponding environment variable and the provider base_url used in the script.
 - To add models/providers, edit the `settings` list in the `main()` function of the evaluator you want to run (zero-shot or CoT). Each entry should have at least `provider`, `model`, `delay`, and `batch_delay` keys.
 - If your dataset file has a different name/path than the script expects, edit the `data_file` variable in `main()` or run the evaluator programmatically.
-- Consider adding a small CLI wrapper (argparse) to both evaluator scripts so you can pass provider/model/data_file/output_dir from the command line instead of editing the source.
 

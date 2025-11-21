@@ -1,6 +1,8 @@
 # Bengali-Fig
 
 
+![Bengali Fig](assets/bengali\ fig.png)
+
 ---
 
 ## Running the Evaluation

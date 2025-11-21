@@ -1,7 +1,7 @@
 # Bengali-Fig
 
 
-![Bengali Fig](assets/bengali\ fig.png)
+![Bengali Fig](assets/bengali_fig.png)
 
 ---
 

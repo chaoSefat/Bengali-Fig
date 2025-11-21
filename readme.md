@@ -5,6 +5,48 @@
 
 ---
 
+## About the Paper — *BengaliFig: A Benchmark for Figurative and Culturally Grounded Reasoning in Bengali*
+
+**BengaliFig** is the research contribution accompanying this repository, accepted for oral presentation at AACL MMLoSo workshop. The paper introduces the first benchmark designed specifically to evaluate **figurative**, **metaphorical**, **wordplay-based**, and **culturally grounded reasoning** in **Bengali**, a major world language that remains under-resourced in NLP evaluation.
+
+Large Language Models (LLMs) excel on standard comprehension benchmarks but are rarely tested on culturally embedded, non-literal tasks—especially outside high-resource languages. Bengali riddles, rich in metaphor, misdirection, cultural symbolism, and phonological cues, provide a natural diagnostic tool for probing these weaknesses.
+
+### Key Contributions
+
+- **BengaliFig Dataset (435 riddles):**  
+  Curated from oral/literary Bengali sources, deduplicated, normalized, and converted into a multiple-choice format.
+
+- **Five-Dimensional Annotation Framework:**  
+  Each riddle is annotated along:
+  - *Reasoning Type* (metaphor, wordplay, compound, descriptive, etc.)
+  - *Trap Type* (linguistic trick, misdirection, distractor type)
+  - *Cultural Depth* (universal vs. culturally specific)
+  - *Answer Type* (object, plant, concept, body part, etc.)
+  - *Difficulty* (easy/medium/hard)
+
+- **Hybrid LLM-Assisted Annotation Pipeline:**  
+  A human–LLM workflow that reduces annotation time while maintaining high agreement (Krippendorff’s α ≈ 0.90).
+
+- **Evaluation of Frontier LLMs:**  
+  Eight state-of-the-art models—including GPT-5, GPT-4.1, Claude Opus 4.1, DeepSeek-V3, Qwen3-235B, and LLaMA-4—are evaluated in:
+  - **Zero-shot**
+  - **Few-shot Chain-of-Thought (CoT)** settings
+
+### Main Findings
+
+- **Metaphor and wordplay** riddles are the most challenging across models.
+- **Cultural specificity** consistently lowers performance, revealing gaps in cultural grounding.
+- **Phonological/syllable constraints** expose LLM weaknesses on non-Latin-script languages like Bengali.
+- **CoT improves weaker models**, though top-tier models show limited gains due to small-sample ceiling effects.
+- Overall, results highlight that **LLMs still struggle with non-literal, culturally embedded reasoning**, even when they perform strongly on standard multilingual tasks.
+
+### Reproducibility
+
+All dataset files, evaluation scripts, annotation prompts, and analysis utilities accompanying the paper are included in this repository to support full reproducibility and further research.
+
+---
+
+
 ## Running the Evaluation
 
 - `zero_shot_riddle_eval.py` — Zero-shot evaluator: asks models to return a single letter (A/B/C/D) in JSON format for each riddle.
